@@ -1,4 +1,7 @@
 # Changelog for ProgenitorMechanoid
 
+1.5.1 - Removed redundant logging
+
+
 1.5.0 - First publish
 
