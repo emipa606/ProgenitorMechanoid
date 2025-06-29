@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: progenitor -->
+  <MP_Mech_Progenitor.label>progenitor</MP_Mech_Progenitor.label>
+  <!-- EN: A mechanoid designed for the sole purpose of gestating and growing new mechanoids. It is not equipped with any weapons or defenses, but instead is fitted with advanced machinery that allows it to gestate new mechanoids quickly and efficiently without a mechanitor. -->
+  <MP_Mech_Progenitor.description>A mechanoid designed for the sole purpose of gestating and growing new mechanoids. It is not equipped with any weapons or defenses, but instead is fitted with advanced machinery that allows it to gestate new mechanoids quickly and efficiently without a mechanitor.</MP_Mech_Progenitor.description>
+  <!-- EN: head -->
+  <MP_Mech_Progenitor.tools.head.label>head</MP_Mech_Progenitor.tools.head.label>
+</LanguageData>

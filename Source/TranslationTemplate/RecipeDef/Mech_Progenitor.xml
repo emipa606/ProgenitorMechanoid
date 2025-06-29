@@ -1,0 +1,9 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<LanguageData>
+  <!-- EN: gestate progenitor -->
+  <MP_Progenitor.label>gestate progenitor</MP_Progenitor.label>
+  <!-- EN: Gestate a progenitor mechanoid. -->
+  <MP_Progenitor.description>Gestate a progenitor mechanoid.</MP_Progenitor.description>
+  <!-- EN: Gestating mech. -->
+  <MP_Progenitor.jobString>Gestating mech.</MP_Progenitor.jobString>
+</LanguageData>
